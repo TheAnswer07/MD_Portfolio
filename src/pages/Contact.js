@@ -59,14 +59,14 @@ const Contact = () => {
           <div className="row">
             <div className="col-md-12 text-center">
               <ul className="list-unstyled mb-0">
-                <li><i className="fas fa-map-marker-alt fa-2x"></i>
-                  <p>Alameda, CA 94502, USA</p>
+                <li id="contactInfo"><i className="fas fa-map-marker-alt fa-2x"></i>
+                  Alameda, CA 94502, USA
                 </li>
-                <li><i className="fas fa-phone mt-4 fa-2x"></i>
-                  <p>(001) 510 928 68 06</p>
+                <li id="contactInfo"><i className="fas fa-phone mt-4 fa-2x"></i>
+                  (001) 510-928-6806
                 </li>
-                <li><i className="fas fa-envelope mt-4 fa-2x"></i>
-                  <p>moisedia7@gmail.com</p>
+                <li id="contactInfo"><i className="fas fa-envelope mt-4 fa-2x"></i>
+                  moisedia7@gmail.com
                 </li>
               </ul>
             </div>

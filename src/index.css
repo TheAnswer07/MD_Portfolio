@@ -171,6 +171,15 @@ p {
     margin-right: 8%;
 }
 
+#contactInfo {
+    color: rgb(45, 88, 114);
+    line-height: 30px;
+    font-size: 18px;
+    margin-left: 8%;
+    margin-bottom: 0.5%;
+    margin-right: 8%;
+}
+
 h3 {
     text-align: center;
     color: rgb(34, 148, 218);
@@ -215,6 +224,7 @@ h3 {
     align-items: left;
     font-size: 1.5em;
     justify-self: left;
+    margin-top: 2%;
 }
 
 label {
