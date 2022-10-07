@@ -6,17 +6,15 @@ import LogoISJA from "../images/logo_isjapostbac.jpeg";
 import PicYSEN from "../images/pic_ysen.jpeg";
 
 const Education = () => {
+
   return (
     <>
     <section id="home" className="main">
 
-      <div className="title" id="Education" href="education.html"></div>
-
-
       <div className="container">
         <div className="row">
 
-          <div className="col-lg-4">
+          <div className="col-lg-4 col-md-4">
             <div className="card">
               <a href="https://extension.berkeley.edu/" className="card-link" target="_blank" noreferrer="true">
                 <img className="card-img" src={LogoUCB} alt="Card image cap"/>
@@ -34,7 +32,7 @@ const Education = () => {
             </div>
           </div>
 
-          <div className="col-lg-4">
+          <div className="col-lg-4 col-md-4">
             <div className="card">
               <a href="https://www.futuris.sn/" className="card-link" target="_blank" noreferrer="true">
                 <img className="card-img" src={LogoFuturis} alt="Card image cap"/>
@@ -53,7 +51,7 @@ const Education = () => {
           </div>
 
 
-          <div className="col-lg-4">
+          <div className="col-lg-4 col-md-4">
             <div className="card">
               <a href="https://cibs.es/" className="card-link" target="_blank" noreferrer="true">
                 <img className="card-img" src={LogoMBACIBS} alt="Card image cap"/>
@@ -73,7 +71,7 @@ const Education = () => {
           </div>
 
 
-          <div className="col-lg-4">
+          <div className="col-lg-4 col-md-4">
             <div className="card">
               <a href="https://www.universidadatlanticomedio.es/" className="card-link" target="_blank" noreferrer="true">
                 <img className="card-img" src={LogoUAMESCOEX} alt="Card image cap"/>
@@ -93,7 +91,7 @@ const Education = () => {
           </div>
 
 
-          <div className="col-lg-4">
+          <div className="col-lg-4 col-md-4">
             <div className="card">
               <a href="https://www.isjadakar.com/" className="card-link" target="_blank" noreferrer="true">
                 <img className="card-img" src={LogoISJA} alt="Card image cap"/>
@@ -112,7 +110,7 @@ const Education = () => {
           </div>
 
 
-          <div className="col-lg-4">
+          <div className="col-lg-4 col-md-4">
             <div className="card">
               <a href="https://sn.worldcombiz.com/Catalogue/dakar/%C3%A9cole/groupescolaireyallasuuren"
                 className="card-link">
