@@ -5,25 +5,29 @@ import Education from "./pages/Education";
 import Home from "./pages/Home";
 import Project from "./pages/Project";
 import Skills from "./pages/Skills";
+import Navbar from "./components/Navbar";
 
 
 function App() {
   return (
-    <Routes>
+    <>
+      <Navbar/>
+      <Routes>
 
-      <Route path="/" element={<Home/>} />
+        <Route path="/" element={<Home />} />
 
-      <Route path="/career" element={<Career/>} />
+        <Route path="/career" element={<Career />} />
 
-      <Route path="/contact" element={<Contact/>} />
+        <Route path="/contact" element={<Contact />} />
 
-      <Route path="/skills" element={<Skills/>} />
+        <Route path="/skills" element={<Skills />} />
 
-      <Route path="/education" element={<Education/>} />
+        <Route path="/education" element={<Education />} />
 
-      <Route path="/project" element={<Project/>} />
+        <Route path="/projects" element={<Project />} />
 
-    </Routes>
+      </Routes>
+    </>
   );
 }
 
