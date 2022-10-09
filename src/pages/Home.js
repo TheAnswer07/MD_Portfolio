@@ -15,13 +15,14 @@ const Home = () => {
       <br/>
       <a href="#"> DOWNLOAD CV </a>
 
+      {/* Add google drive link and make it public */}
+
       <section>
         <div className="container">
           <div className="mypic">
             <img src={mypic} className="roundpic" alt=""/>
           </div>
         </div>
-
       </section>
     </section>
   )

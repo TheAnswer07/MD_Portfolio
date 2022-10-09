@@ -6,6 +6,8 @@ import Home from "./pages/Home";
 import Project from "./pages/Project";
 import Skills from "./pages/Skills";
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
+
 
 
 function App() {
@@ -27,6 +29,7 @@ function App() {
         <Route path="/projects" element={<Project />} />
 
       </Routes>
+      <Footer/>
     </>
   );
 }

@@ -13,7 +13,7 @@ const Career = () => {
             <section id="home" className="main">
 
                 <div className="container">
-                    <div className="row">
+                    <div className="row my-flex-card">
 
                         <div className="col-lg-4 col-md-4">
                             <div className="card">
@@ -101,7 +101,7 @@ const Career = () => {
                 </div>
 
                 <div className="container">
-                    <div className="row">
+                    <div className="row my-flex-card">
                         <div className="col-lg-4 col-md-4">
                             <div className="card">
                                 <a href="https://www.gracomgroup.com/" className="card-link" target="_blank" noreferrer="true">

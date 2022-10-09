@@ -113,8 +113,8 @@ const Education = () => {
                         <div className="col-lg-4 col-md-4">
                             <div className="card">
                                 <a href="https://sn.worldcombiz.com/Catalogue/dakar/%C3%A9cole/groupescolaireyallasuuren"
-                                    className="card-link">
-                                    <img className="card-img" src={PicYSEN} alt="Card image cap" />
+                                    className="card-link" target="_blank" noreferrer="true">
+                                    <img className="card-img" src={PicYSEN} alt="Card image cap"/>
                                 </a>
                                 <div className="card-body">
 
