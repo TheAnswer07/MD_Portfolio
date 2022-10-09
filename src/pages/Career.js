@@ -15,7 +15,7 @@ const Career = () => {
                 <div className="container">
                     <div className="row my-flex-card">
 
-                        <div className="col-lg-4 col-md-4">
+                        <div className="col-sm-10 col-md-8 col-lg-4">
                             <div className="card">
                                 <a href="https://www.minted.com/" className="card-link" target="_blank" noreferrer="true">
                                     <img className="card-img" src={LogoMinted} alt="Card image cap" />
@@ -23,17 +23,17 @@ const Career = () => {
                                 <div className="card-body">
 
                                     <h3>Minted, LLC</h3>
-
-
+                                  
                                     <ul>
-                                        <li>Customer Service (CS) & Direct From Artist (DFA) Team Lead</li>
-                                        <li>DFA & CS Team Supervisor (Q4 2021)</li>
+                                        <li>Customer Service (C.S.) Team Lead</li>
+                                        <li>Direct From Artist (D.F.A.) Team Lead</li>
+                                        <li>D.F.A. & C.S. Team Supervisor (Q4 2021)</li>
                                         <li>Partner Support Lead (Q4 2020)</li>
-                                        <li><span>Training Support (Q4 2020)</span></li>
+                                        <li>Training Support (Q4 2020)</li>
                                         <li>Wholesale Queue Management</li>
                                         <li>Workforce Support (Q4 2019)</li>
                                         <li>Communication Support</li>
-                                        <li>CS Representative</li>
+                                        <li>C.S. Representative</li>
                                     </ul>
 
                                     <p className="card-text"><small className="text-muted">September 2018 - Present <br /> San Francisco, CA</small>
@@ -43,7 +43,7 @@ const Career = () => {
                         </div>
 
 
-                        <div className="col-lg-4 col-md-4">
+                        <div className="col-sm-10 col-md-8 col-lg-4">
                             <div className="card">
                                 <a href="https://www.matrix-aviation.com/" className="card-link" target="_blank" noreferrer="true">
                                     <img className="card-img" src={LogoMatrixAviation} alt="Card image cap" />
@@ -57,7 +57,7 @@ const Career = () => {
                                         <li>Thomas Cook Airlines Supervisor <br />
                                             (Check-in, Boarding, Arrival and Departure
                                             operations management)</li>
-                                        <li>French Bee & Thomas Cook Airlines Customer Service Representative<br />
+                                        <li>French Bee & Thomas Cook Airlines Customer Service Representative
                                             (Check-in, Boarding, Arrival and Departure operations agent
                                             for French Bee, Thomas Cook and Sun Country Airlines)</li>
                                     </ul>
@@ -69,7 +69,7 @@ const Career = () => {
                         </div>
 
 
-                        <div className="col-lg-4 col-md-4">
+                        <div className="col-sm-10 col-md-8 col-lg-4">
                             <div className="card">
                                 <a href="http://facebook.com/YizmoD" className="card-link" target="_blank" noreferrer="true">
                                     <img className="card-img" src={LogoYizmoD} alt="Card image cap" />
@@ -89,6 +89,8 @@ const Career = () => {
                                         <li>Sénégalaise de l'Immobilier</li>
                                         <li>Réussir</li>
                                         <li>Interaktive</li>
+                                        <li>Kirinapost</li>
+                                        <li>Lead Sénégal</li>
                                         <li>...</li>
                                     </ul>
 
@@ -102,7 +104,7 @@ const Career = () => {
 
                 <div className="container">
                     <div className="row my-flex-card">
-                        <div className="col-lg-4 col-md-4">
+                        <div className="col-sm-10 col-md-8 col-lg-4">
                             <div className="card">
                                 <a href="https://www.gracomgroup.com/" className="card-link" target="_blank" noreferrer="true">
                                     <img className="card-img" src={LogoGracom} alt="Card image cap" />
@@ -112,7 +114,7 @@ const Career = () => {
                                     <h3>Gracom Group</h3>
 
                                     <p>
-                                        Project Manager - Planning of the first (2014) and second (2016) editions of
+                                        <span className="span">Project Manager - </span>Planning of the first (2014) and second (2016) editions of
                                         ''Photovoltaïca - International Photovoltaic Exhibition and Conference'': institutional
                                         event dedicated to the solar energy industry and organized for the Ministery of Energy,
                                         Mines, Water and Environnement (M.E.M.E.E.) and the Energy Investment Company
@@ -125,7 +127,7 @@ const Career = () => {
                         </div>
 
 
-                        <div className="col-lg-4 col-md-4">
+                        <div className="col-sm-10 col-md-8 col-lg-4">
                             <div className="card">
                                 <a href="https://www.globalvoicegroup.com/" className="card-link" target="_blank" noreferrer="true">
                                     <img className="card-img" src={LogoGVG} alt="Card image cap" />
@@ -151,7 +153,7 @@ const Career = () => {
                         </div>
 
 
-                        <div className="col-lg-4 col-md-4">
+                        <div className="col-sm-10 col-md-8 col-lg-4">
                             <div className="card">
                                 <a href="https://www.amchamspain.com/en/" className="card-link" target="_blank" noreferrer="true">
                                     <img className="card-img" src={LogoAmChamSpain} alt="Card image cap" />
@@ -161,7 +163,7 @@ const Career = () => {
                                     <h3>American Chamber Of Commerce In Spain - Canary Islands Chapter</h3>
 
                                     <p>
-                                        Junior Consultant - Trade mission planning & strategic market analysis:
+                                        <span className="span">Junior Consultant - </span>Trade mission planning & strategic market analysis:
                                         materializing the tri-continental platform (Europe-America-Africa)
                                         with the objective to provide modern infrastructures to american entities
                                         willing to investment in Africa through the Canary Islands
