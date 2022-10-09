@@ -10,9 +10,9 @@ const Project = () => {
             <section id="home" className="main">
 
                 <div className="container">
-                    <div className="row">
+                    <div className="row my-flex-card">
 
-                        <div className="col-lg-4 col-md-4">
+                        <div className="col-sm-10 col-md-8 col-lg-4">
                             <div className="card">
                                 <a href="https://jackyouk.github.io/B4UBoard/" className="card-link" target="_blank" noreferrer="true">
                                     <img className="card-img" src={LogoB4UBoard} alt="Card image cap" />
@@ -33,7 +33,7 @@ const Project = () => {
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-4">
+                        <div className="col-sm-10 col-md-8 col-lg-4">
                             <div className="card">
                                 <a href="https://jobquest.herokuapp.com/" className="card-link" target="_blank" noreferrer="true">
                                     <img className="card-img" src={LogoJobQuest} alt="Card image cap" />
@@ -53,7 +53,7 @@ const Project = () => {
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-4">
+                        <div className="col-sm-10 col-md-8 col-lg-4">
                             <div className="card">
                                 <a href="https://theanswer07.github.io/Expanding-Basketball-Cards/" className="card-link" target="_blank" noreferrer="true">
                                     <img className="card-img" src={LogoEBC} alt="Card image cap" />

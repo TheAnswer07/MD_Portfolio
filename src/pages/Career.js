@@ -76,7 +76,7 @@ const Career = () => {
                                 </a>
                                 <div className="card-body">
 
-                                    <h3>Yizmo D Communication</h3>
+                                    <h3>Yizmo D Communication (Owner)</h3>
 
                                     <p>
                                         Diverse infographic designs/projects for the following clients:

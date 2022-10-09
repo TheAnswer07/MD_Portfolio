@@ -36,13 +36,15 @@ nav {
     font-size: large;
 }
 
-.nav-link, .nav-link:visited {
+.nav-link,
+.nav-link:visited {
     text-decoration: none;
     font-weight: bold;
     color: white;
 }
 
-.nav-link:hover, .nav-link:active {
+.nav-link:hover,
+.nav-link:active {
     color: rgb(171, 220, 252);
 }
 
@@ -92,7 +94,8 @@ nav {
     font-style: italic;
 }
 
-.card-body li, p {
+.card-body li,
+p {
     color: rgb(45, 88, 114);
     line-height: 30px;
     font-size: 20px;
@@ -178,22 +181,43 @@ nav {
     height: fit-content;
 }
 
+.card-img {
+    max-width: 100%;
+    margin: -4% 0 -5% 0;
+}
+
 p {
     color: rgb(45, 88, 114);
     line-height: 30px;
     font-size: 20px;
-    /* margin-left: 8%;
+    margin-left: 8%;
     margin-bottom: 8%;
-    margin-right: 8%; */
+    margin-right: 8%;
 }
 
 #contactInfo {
     color: rgb(45, 88, 114);
     line-height: 30px;
     font-size: 18px;
-    margin-left: 8%;
+    /* margin-left: 8%; */
     margin-bottom: 0.5%;
+    /* margin-right: 8%; */
+    text-align: center;
+}
+
+#contactInfoMain {
+    text-align: center;
+    color: rgb(34, 148, 218);
+    margin-bottom: 25px;
+    font-size: 27px;
+    font-weight: 545;
+    margin-left: 8%;
     margin-right: 8%;
+    /* margin-top: 15%; */
+    justify-content: center;
+    align-items: center;
+    justify-self: center;
+    justify-items: center;
 }
 
 h3 {
@@ -204,7 +228,7 @@ h3 {
     font-weight: 545;
     margin-left: 8%;
     margin-right: 8%;
-    margin-top: 8%;
+    margin-top: 15%;
     justify-content: center;
     align-items: center;
     justify-self: center;
@@ -222,12 +246,7 @@ h3 {
     margin-top: 0;
 }
 
-.card-img {
-    
-    max-width: 100%;
-    /* max-height: 500px; */
-    /* margin-top: auto; */
-}
+
 
 #contact-submit {
     color: white;
@@ -243,6 +262,33 @@ h3 {
     font-size: 1.5em;
     justify-self: left;
     margin-top: 2%;
+}
+
+#contactInput {
+    margin-top: 10%;
+    text-align: center;
+    color: rgb(34, 148, 218);
+    margin-bottom: 25px;
+    font-size: 27px;
+    font-weight: 545;
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-top: 15%;
+    justify-content: center;
+    align-items: center;
+    justify-self: center;
+    justify-items: center;
+}
+
+#emailInput {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    justify-self: center;
+    justify-items: center;
+    justify-content: space-evenly;
+    background: rgb(255, 255, 255);
+    opacity: 87%;
 }
 
 label {
@@ -261,6 +307,7 @@ i {
     font-weight: normal;
     background: rgb(255, 255, 255);
     opacity: 85%;
+    text-align: center;
 }
 
 .background {
@@ -270,17 +317,16 @@ i {
 
 #contact-me {
     font-size: 2.5em;
+    text-align: center;
 }
 
 .message-sent-by-me-after-email {
-    color: rgb(127, 53, 223);
+    color: rgb(34, 148, 218);
     text-decoration: none;
-    /* border-radius: 7px; */
     font-weight: bold;
     width: 100%;
-    /* height: 50px; */
-    font-size: 1.5em;
-    margin-top: 2%;
+    font-size: 1.7em;
+    margin-top: 7%;
     text-align: center;
 }
 
@@ -308,8 +354,7 @@ i {
     margin-right: 2rem;
 }
 
-.my-flex-card > div > div.card {
+.my-flex-card>div>div.card {
     height: calc(100% - 15px);
     margin-bottom: 15px;
 }
-

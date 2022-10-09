@@ -9,9 +9,9 @@ const Skills = () => {
             <section id="home" className="main">
 
                 <div className="container">
-                    <div className="row">
+                    <div className="row my-flex-card">
 
-                        <div className="col-lg-4 col-md-4">
+                        <div className="col-sm-10 col-md-8 col-lg-4">
                             <div className="card">
                                 <img className="card-img" src={imgBusinessSkills} alt="Card image cap"/>
                                     <div className="card-body">
@@ -30,7 +30,7 @@ const Skills = () => {
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-4">
+                        <div className="col-sm-10 col-md-8 col-lg-4">
                             <div className="card">
                                 <img className="card-img" src={imgTechSkills} alt="Card image cap"/>
                                     <div className="card-body">
@@ -56,7 +56,7 @@ const Skills = () => {
                             </div>
                         </div>
 
-                        <div className="col-lg-4 col-md-4">
+                        <div className="col-sm-10 col-md-8 col-lg-4">
                             <div className="card">
                                 <img className="card-img" src={imgHobbies} alt="Card image cap" />
                                 <div className="card-body">
