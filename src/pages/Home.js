@@ -13,10 +13,8 @@ const Home = () => {
         potential collaborations.
       </p>
       <br/>
-      <a href="#"> DOWNLOAD CV </a>
-
-      {/* Add google drive link and make it public */}
-
+      <a href="https://drive.google.com/file/d/1c4-coe2J26VIoypSnF56vvZ9tOanyPjg/view?usp=sharing" target="_blank" noreferrer="true"> DOWNLOAD CV </a>
+      
       <section>
         <div className="container">
           <div className="mypic">
