@@ -44,8 +44,8 @@ const Skills = () => {
                                             <li>Adobe Illustrator CS6</li>
                                             <li>Adobe Photoshop CS6</li>
                                             <li>Adobe inDesign CC 2018</li>
-                                            {/* <li>Billing and monitoring tools</li>
-                                            <li>Cybersource and PayPal</li>
+                                            <li>Billing and monitoring tools</li>
+                                            {/* <li>Cybersource and PayPal</li>
                                             <li>Salesforce</li>
                                             <li>Monet</li>
                                             <li>Slack</li>
@@ -65,7 +65,7 @@ const Skills = () => {
                                         <li>French: native</li>
                                         <li>English: fluent</li>
                                         <li>Spanish: fluent</li>
-                                    </ul><br/>
+                                    </ul>
 
                                     <h3>Hobbies</h3>
                                     <ul>

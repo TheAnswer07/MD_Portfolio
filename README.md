@@ -8,7 +8,6 @@
 * [Project Description](#project-description)
 * [User Story](#username)
 * [Credits](#credits)
-* [Features](#features)
 * [Contribution](#contribution)
 * [GitHub Profile Link](#github-profile)
 * [GitHub Portfolio Link](#portfolio-github-link)
@@ -20,7 +19,7 @@
 
 ### Project Description:
 
-XYZ
+This portfolio is the latest version of its kind. It has been created with React in order to highlight my professional profile in the best of ways possible. I hope you like it!
 
 ### User Story:
 
@@ -30,11 +29,7 @@ SO THAT I can assess whether they're a good candidate for an open position
 
 ### Credits:
 
-XYZ
-
-### Features:
-
-XYZ
+Big shout out to Scott Nelson from UCB Extension for helping me taylor my code for this project in the best of ways possible.
 
 ### Contribution:
 
@@ -46,14 +41,18 @@ You can contribute to this project by accessing my GitHub page.
 
 ### Portfolio GitHub Link:
 
-[GitHub Portfolio Link](https://theanswer07.github.io/MD_Portfolio/)
+[GitHub Portfolio Link](https://theanswer07.github.io/md_portfolio/)
 
 ### Screenshots:
 
-1. Screenshot 1:
+1. Home Page:
 
-![Screenshot 1](screenshots/ "Screenshot 1")
+![Home Page](public/screenshots/Home-Page.png "Home Page")
 
-2. Screenshot 2:
+2. Projects Page With Footer:
 
-![Screenshot 2](screenshots/ "Screenshot 2")
+![Projects Page With Footer](public/screenshots/Projects-Page-With-Footer.png "Projects Page With Footer")
+
+3. Contact Page:
+
+![Contact Page](public/screenshots/Contact-Page.png "Contact Page")
