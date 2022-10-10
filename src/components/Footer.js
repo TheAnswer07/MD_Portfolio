@@ -9,7 +9,7 @@ const Footer = () => {
             <a href="https://github.com/TheAnswer07" className="social-links" target="_blank" noreferrer="true">
                 <FaGithub/>
             </a>
-            <a href="https://www.linkedin.com/in/moussadia/" className="social-links" target="_blank" noreferrer="true">
+            <a href="https://www.linkedin.com/in/moussa-dia7/" className="social-links" target="_blank" noreferrer="true">
             <FaLinkedin/>
             </a>
         </div>
