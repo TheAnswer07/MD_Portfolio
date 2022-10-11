@@ -10,7 +10,7 @@
 * [Credits](#credits)
 * [Contribution](#contribution)
 * [GitHub Profile Link](#github-profile)
-* [GitHub Portfolio Link](#portfolio-github-link)
+* [Portfolio Heroku Link](#portfolio-heroku-link)
 * [Screenshots:](#screenshots)
     1. [Screenshot 1](#Screenshot-1)
     2. [Screenshot 2](#Screenshot-2)
@@ -39,9 +39,9 @@ You can contribute to this project by accessing my GitHub page.
 
 [GitHub Profile](https://github.com/TheAnswer07)
 
-### Portfolio GitHub Link:
+### Portfolio Heroku Link:
 
-[GitHub Portfolio Link](https://theanswer07.github.io/md_portfolio/)
+[Portfolio Heroku Link](https://portfolio-md-fv.herokuapp.com/)
 
 ### Screenshots:
 
