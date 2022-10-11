@@ -88,7 +88,7 @@ const Contact = () => {
               </div>
             
 
-            {emailSent && <p className="message-sent-by-me-after-email">Thank you for your message!</p>}
+            {emailSent && <h2 id="contact-me" className="message-sent-by-me-after-email">Thank you for your message!</h2>}
 
             <div id="contactInfoMain" className="row my-flex-card">
               <div className="col-md-8 col-lg-4 text-center">

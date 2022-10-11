@@ -199,21 +199,20 @@ p {
     color: rgb(45, 88, 114);
     line-height: 30px;
     font-size: 18px;
-    /* margin-left: 8%; */
     margin-bottom: 0.5%;
-    /* margin-right: 8%; */
     text-align: center;
+    margin-top: 3%;
 }
 
 #contactInfoMain {
     text-align: center;
-    color: rgb(34, 148, 218);
+    color: rgb(2, 149, 240);
     margin-bottom: 25px;
     font-size: 27px;
     font-weight: 545;
     margin-left: 8%;
     margin-right: 8%;
-    /* margin-top: 15%; */
+    margin-top: 3%;
     justify-content: center;
     align-items: center;
     justify-self: center;
@@ -222,7 +221,7 @@ p {
 
 h3 {
     text-align: center;
-    color: rgb(34, 148, 218);
+    color: rgb(2, 149, 240);
     margin-bottom: 25px;
     font-size: 27px;
     font-weight: 545;
@@ -237,7 +236,7 @@ h3 {
 
 .row-h3 {
     text-align: left;
-    color: rgb(34, 148, 218);
+    color: rgb(2, 149, 240);
     margin-bottom: 0px;
     font-size: 27px;
     font-weight: 545;
@@ -252,7 +251,7 @@ h3 {
     color: white;
     text-decoration: none;
     border-radius: 7px;
-    background: rgb(34, 148, 218);
+    background: rgb(2, 149, 240);
     font-weight: bold;
     padding: 7px 15px;
     width: 200px;
@@ -261,13 +260,13 @@ h3 {
     align-items: left;
     font-size: 1.5em;
     justify-self: left;
-    margin-top: 2%;
+    margin-top: 0.5%;
 }
 
 #contactInput {
     margin-top: 10%;
     text-align: center;
-    color: rgb(34, 148, 218);
+    color: rgb(2, 149, 240);
     margin-bottom: 25px;
     font-size: 27px;
     font-weight: 545;
@@ -292,13 +291,13 @@ h3 {
 }
 
 label {
-    color: rgb(34, 148, 218);
+    color: rgb(2, 149, 240);
     margin-left: 0;
     font-size: 1.3em;
 }
 
 i {
-    color: rgb(34, 148, 218);
+    color: rgb(2, 149, 240);
 }
 
 #contact-p {
@@ -318,10 +317,12 @@ i {
 #contact-me {
     font-size: 2.5em;
     text-align: center;
+    background: rgb(255, 255, 255);
+    opacity: 87%;
 }
 
 .message-sent-by-me-after-email {
-    color: rgb(34, 148, 218);
+    color: rgb(2, 149, 240);
     text-decoration: none;
     font-weight: bold;
     width: 100%;
