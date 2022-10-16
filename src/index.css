@@ -85,6 +85,15 @@ nav {
     margin-left: 8%;
 }
 
+.aboutMe {
+    display: flex;
+    font-style: italic;
+    color: rgb(34, 148, 218);
+    justify-content: left;
+    block-size: 5rem;
+    margin-top: 5rem;
+}
+
 #main-home p {
     color: rgb(45, 88, 114);
     line-height: 30px;
@@ -146,8 +155,8 @@ p {
     position: absolute;
     height: 75%;
     width: 50%;
-    right: 100px;
-    bottom: 100px;
+    right: 30px;
+    bottom: -110px;
 }
 
 .mypic img {
