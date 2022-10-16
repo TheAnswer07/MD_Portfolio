@@ -45,14 +45,18 @@ You can contribute to this project by accessing my GitHub page.
 
 ### Screenshots:
 
-1. Home Page:
+1. About Me Page:
 
-![Home Page](public/screenshots/Home-Page.png "Home Page")
+![About Me Page](public/screenshots/AboutMe-Page.png "About Me Page")
 
-2. Projects Page With Footer:
+2. About Me Page With Resume LinkedIn And GitHub Links:
+
+![About Me Page With Resume LinkedIn And GitHub Links](public/screenshots/AboutMe-Page-With-Resume-LinkedIn-And-GitHub-Links.png "About Me Page With Resume LinkedIn And GitHub Links")
+
+3. Projects Page With Footer:
 
 ![Projects Page With Footer](public/screenshots/Projects-Page-With-Footer.png "Projects Page With Footer")
 
-3. Contact Page:
+4. Contact Page:
 
 ![Contact Page](public/screenshots/Contact-Page.png "Contact Page")
