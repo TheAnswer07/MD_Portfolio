@@ -163,7 +163,7 @@ p {
     position: absolute;
     height: 65%;
     left: 50%;
-    bottom: 35%;
+    bottom: 65%;
     transform: translateX(-50%);
     transition: bottom 1s, left 1s;
 }
@@ -171,6 +171,12 @@ p {
 .mypic:hover .roundpic {
     left: 60%;
 }
+
+@media screen and (max-width:1050px) {  
+    .mypic img {
+      display: none;
+    }
+  }
 
 .card {
     display: flex;
