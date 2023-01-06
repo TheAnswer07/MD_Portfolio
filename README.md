@@ -10,7 +10,7 @@
 * [Credits](#credits)
 * [Contribution](#contribution)
 * [GitHub Profile Link](#github-profile)
-* [Portfolio Heroku Link](#portfolio-heroku-link)
+* [Portfolio Link](#portfolio-link)
 * [Screenshots:](#screenshots)
     1. [About Me Page](#About-Me-Page)
     2. [About Me Page With Resume LinkedIn And GitHub Links](#About-Me-Page-With-Resume-LinkedIn-And-GitHub-Links)
@@ -41,9 +41,9 @@ You can contribute to this project by accessing my GitHub page.
 
 [GitHub Profile](https://github.com/TheAnswer07)
 
-### Portfolio Heroku Link:
+### Portfolio Link:
 
-[Portfolio Heroku Link](https://portfoliomoussadia.herokuapp.com/)
+[Portfolio Link](https:///)
 
 ### Screenshots:
 
